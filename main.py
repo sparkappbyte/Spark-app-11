@@ -7,8 +7,8 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
 # --- НАСТРОЙКИ (ВСТАВЬ СВОИ) ---
-API_TOKEN = 'ТВОЙ_ТОКЕН_БОТА'
-ADMIN_ID = 12345678  # Твой ID
+API_TOKEN = 'ТВОЙ_ТОКЕН_БОТА'8694731612:AAEAE9q6cg96CRS1kefQX_CUN_aJDfTB-Tc
+ADMIN_ID = 12345678  # Твой ID7268804097
 
 app = FastAPI()
 bot = Bot(token=API_TOKEN)
